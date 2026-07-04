@@ -2,7 +2,7 @@
 
 I'm Musuamba Teresa Wa Baya, an MEng Data Science student passionate about using data to solve real-world problems.
 
-I'm currently focusing on advanced data Analaytics and machine learning models.
+I'm currently focusing on advanced data Analytics and machine learning models.
 
 I am currently learning SQL and Python. 
 
