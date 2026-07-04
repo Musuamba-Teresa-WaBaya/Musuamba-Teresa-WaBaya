@@ -9,9 +9,9 @@ I am currently learning SQL, Power BI and Python
 I’m looking to collaborate on data analytics and machine learning projects.
 
 How to reach me:
-Email: wabayamusuamba@gmail.com
-LinkedIn: https://www.linkedin.com/in/musuamba-teresa-wa-baya-342b39206/
-GitHub: https://github.com/Musuamba-Teresa-WaBaya
+- Email: wabayamusuamba@gmail.com
+- LinkedIn: https://www.linkedin.com/in/musuamba-teresa-wa-baya-342b39206/
+- GitHub: https://github.com/Musuamba-Teresa-WaBaya
 
 
 <!--
