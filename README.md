@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Musuamba Teresa Wa Baya, a Data Analyst and Data Scientist passionate about using data to solve real-world problems.
+I'm Musuamba Teresa Wa Baya, an MEng Data Science student passionate about using data to solve real-world problems.
 
 I'm currently focusing on advanced data Analaytics and machine learning models.
 
-I am currently learning SQL, Power BI and Python 
+I am currently learning SQL and Python. 
 
 I’m looking to collaborate on data analytics and machine learning projects.
 
